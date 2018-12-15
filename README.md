@@ -10,10 +10,16 @@ A/B tests for whether umps are calling pitches to end the game in extra innnings
 
 # Hierarchical Bayesian Ranking
 
-Ranking MLB teams. See the [blog post](https://dantegates.github.io/2018/09/20/hierarchical-bayesian-ranking.html).
+Ranking MLB teams. See this [blog post](https://dantegates.github.io/2018/09/20/hierarchical-bayesian-ranking.html) and [this one](https://dantegates.github.io/2018/10/22/world-series-projections.html).
 
 [bayesian-ranking-post.ipynb](ranking-teams-with-priors-post.ipynb): Notebook for the blog post.
 
 [bayesian-ranking-data-pull.ipynb](ranking-teams-with-priors-data-pull.ipynb): Notebook for the data pull.
 
 [bayesian-ranking-full.ipynb](ranking-teams-with-priors-full.ipynb): Notebook for the blog post with additional research.
+
+# World Series Projections
+
+World Series projections. See this [blog post](https://dantegates.github.io/2018/10/22/world-series-projections.html).
+
+[world-series-projections.ipynb](world-series-projections.ipynb)
