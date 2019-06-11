@@ -1,4 +1,4 @@
-des,attention,pitch_name,zone,balls,strikes,total_pitch_number
-,0.3851222,2-Seam Fastball,14.0,0.0,0.0,1
-,0.20434189,2-Seam Fastball,5.0,1.0,0.0,2
-Mookie Betts homers (22) on a fly ball to left center field.  ,0.41053596,2-Seam Fastball,2.0,1.0,1.0,3
+des,attention,pitch_name,zone,balls,strikes,total_pitch_number,fld_score,bat_score
+,0.24544553,2-Seam Fastball,14.0,0.0,0.0,1,0.0,0.0
+,0.2935907,2-Seam Fastball,5.0,1.0,0.0,2,0.0,0.0
+Mookie Betts homers (22) on a fly ball to left center field.  ,0.46096373,2-Seam Fastball,2.0,1.0,1.0,3,0.0,0.0

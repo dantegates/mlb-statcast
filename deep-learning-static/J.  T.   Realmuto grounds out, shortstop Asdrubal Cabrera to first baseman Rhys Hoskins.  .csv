@@ -1,5 +1,5 @@
-des,attention,pitch_name,zone,balls,strikes,total_pitch_number
-,0.078523144,Cutter,3.0,0.0,0.0,1
-,0.06514548,2-Seam Fastball,14.0,0.0,1.0,2
-,0.18088306,Cutter,14.0,1.0,1.0,3
-"J.  T.   Realmuto grounds out, shortstop Asdrubal Cabrera to first baseman Rhys Hoskins.  ",0.6754483,2-Seam Fastball,5.0,2.0,1.0,4
+des,attention,pitch_name,zone,balls,strikes,total_pitch_number,fld_score,bat_score
+,0.044510107,Cutter,3.0,0.0,0.0,1,5.0,4.0
+,0.02750963,2-Seam Fastball,14.0,0.0,1.0,2,5.0,4.0
+,0.056896072,Cutter,14.0,1.0,1.0,3,5.0,4.0
+"J.  T.   Realmuto grounds out, shortstop Asdrubal Cabrera to first baseman Rhys Hoskins.  ",0.8710842,2-Seam Fastball,5.0,2.0,1.0,4,5.0,4.0
