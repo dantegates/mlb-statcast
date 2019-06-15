@@ -29,4 +29,5 @@ World Series projections. See this [blog post](https://dantegates.github.io/2018
 Blog post on inspecting deep neural networks using MLB statcast data to generate examples.
 
 [deep-learning.ipynb](./deep-learning.ipynb)
+
 [deep-learning-post.ipynb](./deep-learning-post.ipynb)
