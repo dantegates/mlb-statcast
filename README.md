@@ -23,3 +23,7 @@ Ranking MLB teams. See this [blog post](https://dantegates.github.io/2018/09/20/
 World Series projections. See this [blog post](https://dantegates.github.io/2018/10/22/world-series-projections.html).
 
 [world-series-projections.ipynb](world-series-projections.ipynb)
+
+# Deep learning with tabular data - Debunking the myth of the black box
+
+Blog post on inspecting deep neural networks using MLB statcast data to generate examples.
