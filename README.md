@@ -36,3 +36,5 @@ Blog post on inspecting deep neural networks using MLB statcast data to generate
 
 Blog post on using stats to compensate for a lack of data and predict how
 many home runs Pete Alonso will hit in 2020.
+
+[what-to-expect-from-pete-alonso.ipynb](what-to-expect-from-pete-alonso.ipynb)
