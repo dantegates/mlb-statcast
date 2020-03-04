@@ -31,3 +31,8 @@ Blog post on inspecting deep neural networks using MLB statcast data to generate
 [deep-learning.ipynb](./deep-learning.ipynb)
 
 [deep-learning-post.ipynb](./deep-learning-post.ipynb)
+
+# Predicting Pete Alonso's 2020 Performance
+
+Blog post on using stats to compensate for a lack of data and predict how
+many home runs Pete Alonso will hit in 2020.
