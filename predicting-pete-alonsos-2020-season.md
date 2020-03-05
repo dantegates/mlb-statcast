@@ -83,4 +83,12 @@ Another detail our answer depends on is whether the juiced ball returns this sea
 
 To finish up here, if I were hard pressed to predict the number of home runs Pete Alonso hits in 2020 with numbers, and not plots, as the title of this post suggests, I'd use my `P(ball is juiced)=1/2` assumption and condition my prediction on Alonso having somewhere between the nice round numbers of 675 and 715 PAs this season which gives Pete a 90% of hitting somewhere between 24 and 42 home runs.
 
-As always, for those who are curious the entire code used to build the model, generate predictions and make the plots in this post can be found on my GitHub page linked at the bottom of this post.
+# Commentary
+
+The statistical techniques demonstrated in this post really shine when applied to "small data" problems where a decision needs to be made.
+
+Imagine being a GM interested in trading for Alonso. You would want to know just how much of an outlier his 2019 season was before deciding which players, cash or prospects are worth the trade. Of course the challenge is having only been able to watch him play for one season and if you wait for more data Alonso could be busy putting together a few more solid seasons, driving his trade value up. Whereas we would worry about a typical ML model overfitting in this situation, the hierarchical model described above uses domain knowledge and data from other MLB players to provide a robust prediction.
+
+Another advantage of the probabilistic model in this situation is that it can provide more information than a single prediction alone to help guide the decision making process. You can imagine how your opinion on a trade might change if we forecasted Pete to hit 33-37 HRs vs. 24-42 HRs vs. 10-52 HRs.
+
+I've intentionally kept the technical details in this post light. For more information I've written a [number of posts](https://dantegates.github.io/tags/#bayesian) on the topic, most of which link to even better external resources.
